@@ -45,7 +45,7 @@ export default function Hero() {
           className="leading-[1.05] mb-6"
           style={{
             fontFamily: 'Playfair Display, serif',
-            fontSize: 'clamp(3rem, 6vw, 5.5rem)',
+            fontSize: 'clamp(1.8rem, 7.5vw, 5.5rem)',
             color: 'var(--marrom-dark)',
           }}
         >

@@ -41,7 +41,7 @@ export function CTA() {
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.65 }}
           className="leading-[1.1] mb-5"
-          style={{ fontFamily: 'Playfair Display, serif', fontSize: 'clamp(2.2rem, 5vw, 4rem)', color: '#ffffff' }}
+          style={{ fontFamily: 'Playfair Display, serif', fontSize: 'clamp(1.7rem, 5.5vw, 4rem)', color: '#ffffff' }}
         >
           Pronto para um café<br />
           <em style={{ fontStyle: 'italic', color: 'rgba(255,245,184,0.9)' }}>diferente de tudo?</em>

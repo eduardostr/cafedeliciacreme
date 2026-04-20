@@ -71,7 +71,7 @@ export default function Differentials() {
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6, delay: 0.1 }}
           className="leading-[1.15]"
-          style={{ fontFamily: 'Playfair Display, serif', fontSize: 'clamp(2rem, 4vw, 3rem)', color: 'var(--marrom-dark)' }}
+          style={{ fontFamily: 'Playfair Display, serif', fontSize: 'clamp(1.5rem, 5vw, 3rem)', color: 'var(--marrom-dark)' }}
         >
           Nossos{' '}
           <em style={{ fontStyle: 'italic', color: 'var(--marrom)' }}>diferenciais</em>
