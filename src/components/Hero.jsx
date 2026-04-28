@@ -93,17 +93,15 @@ export default function Hero() {
 
       {/* Visual side */}
       <div className="flex justify-center items-center relative mt-10 md:mt-0">
-        <div className="relative w-[220px] h-[220px] md:w-[360px] md:h-[360px]">
-          {/* Favicon image with float */}
+        <div className="relative w-[320px] h-[320px] sm:w-[360px] sm:h-[360px] md:w-[520px] md:h-[520px]">
           <motion.img
-            src="/favicon.png"
+            src="/Avatar.png"
             alt="Café Delícia Creme"
             className="relative z-10 w-full h-full object-contain"
             initial={{ opacity: 0, scale: 0.85 }}
             animate={{ opacity: 1, scale: 1, y: [0, -14, 0] }}
             transition={{ opacity: { duration: 0.7, delay: 0.3 }, scale: { duration: 0.7, delay: 0.3 }, y: { duration: 5, repeat: Infinity, ease: 'easeInOut' } }}
           />
-
         </div>
       </div>
     </section>
