@@ -2,12 +2,6 @@
 
 Landing page da Café Delícia Creme para apresentar a marca, divulgar cafés gourmet saborizados e direcionar encomendas para o WhatsApp.
 
-## About do repositório
-
-> Landing page responsiva da Café Delícia Creme, desenvolvida com React, Vite, Tailwind CSS e Framer Motion. Apresenta a marca, seis sabores de cafés gourmet, informações sobre encomendas e atalhos para contato pelo WhatsApp e Instagram.
-
-Esse texto tem menos de 350 caracteres e pode ser usado no campo **About → Description** do GitHub. Essa configuração é independente do README.
-
 ## Recursos implementados
 
 - Navegação fixa entre as seções, rolagem suave e menu para dispositivos móveis.
